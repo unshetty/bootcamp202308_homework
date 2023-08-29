@@ -1,0 +1,11 @@
+The button below has:
+A 3px solid green border
+16px of padding on the top and bottom
+30px of padding on the left and right
+Button
+
+The link below has a 3px solid purple border
+My link
+
+The heading below has a 10px solid orange border and 40px of padding
+Heading Level 1

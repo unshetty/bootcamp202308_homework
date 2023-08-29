@@ -1,0 +1,18 @@
+h1 {
+    border: solid orange 10px;
+    padding: 40px;
+    padding-right: 30px;
+}
+a {
+    border: solid purple 3px;
+    color: purple;
+}
+button {
+    border: solid green 3px;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+ background-color: blue;
+}

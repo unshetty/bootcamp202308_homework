@@ -1,0 +1,28 @@
+<h1>Level 1 heading</h1>
+<h2>Level 2 Heading</h2>
+<h2>Level 3 Heading</h2>
+<p>This is a paragraph</p>
+<span>A span wraps around a selected part of text or content</span>
+<ul>
+    <li>List item in an unordered list</li>
+    <li>List item in an unordered list</li>
+    <li>List item in an unordered list</li>
+</ul>
+<br /> Line break 
+<a href="#">A link, using a # as a placeholder for the url</a>
+<img src="#" alt="This text will display on the page when the image doesn't exist or is unable to load">
+<button type="button">Button</button>
+
+
+A CSS Rule:
+- The `selector` references the html element
+- The `key` is the name of the style property
+- The `value` is the chosen setting of the property
+
+selector {
+    key: value
+}
+
+Style Properties:
+color: black;
+background-color: white;

@@ -1,0 +1,20 @@
+CSS Specificity (h1)
+Specificity determines which CSS styles should be applied to an HTML element when conflicting styles are defined.
+
+What factors influence specificity? (h2)
+
+Location (from most to least specific) (h3)
+
+Inline (in the HTML element)
+Internal (in the HTML <head>)
+External (stylesheet)
+
+Selector (from most to least specific) (h3)
+
+ID
+Class
+Tag name
+
+Order (h3)
+
+Styles defined lower in the document override styles defined above.

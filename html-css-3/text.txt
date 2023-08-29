@@ -1,0 +1,26 @@
+Block vs. Inline
+What is the difference between a block element and an inline element?
+
+Block Elements
+
+A block level element takes up the full width of the webpage, and therefore always starts on it's own row.
+
+Examples of block elements include:
+
+h1-h6: Headings from largest (h1) to smallest (h6)
+p: Paragraphs for text content
+div: A container for grouping elements
+ul: Unordered lists, which are by bulleted lists
+ol: Ordered lists, which are numbered lists
+li: A list item in an unordered or ordered list
+
+Inline Elements
+
+An inline level element is only as wide as the content inside, and doesn't start a new row.
+
+Examples of inline elements include:
+A link, A button, An image
+
+
+
+

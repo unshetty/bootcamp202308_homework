@@ -1,0 +1,3 @@
+An HTML attribute is a value which provides additional information about an HTML element. For an image element, the sc attribute holds the image file name. The alt attribute holds a short description of the image.
+
+These images each have a 10px solid purple border, and a 30px margin.

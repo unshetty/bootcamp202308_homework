@@ -1,0 +1,18 @@
+Box-sizing vs. Box-model (h1)
+
+What is box-sizing? (h2)
+
+In CSS, the box-sizing property decides how an element's width and height are calculated.
+
+With box-sizing: content-box; the width and height properties include only the content.
+
+With box-sizing: border-box; the width and height properties include the content, padding, and border.
+
+What is the Box Model? (h2)
+
+The CSS Box Model refers to way HTML elements are structured, with the following four layers:
+
+Content: This is what's inside the element.
+Padding: The space between the content and the border.
+Border: The edge around the padding and content.
+Margin: The space outside the border, which creates gaps between elements.
